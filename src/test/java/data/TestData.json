@@ -1,8 +1,10 @@
 [
   {
     "login": {
-      "email": "heba@test.com",
-      "password": "1234567890"
+      "validEmail": "heba@test.com",
+      "validPassword": "@1234567890",
+      "invalidEmail": "invalid@test.com",
+      "invalidPassword": "1234567890"
     },
     "registration": {
       "firstName": "Heba",
