@@ -1,0 +1,33 @@
+[
+  {
+    "login": {
+      "email": "heba@test.com",
+      "password": "1234567890"
+    },
+    "registration": {
+      "firstName": "Heba",
+      "lastName": "Ahmed",
+      "email": "heba231@example323.com",
+      "password": "@Password2023",
+      "dayOfBirth": "16",
+      "monthOfBirth": "Oct",
+      "yearOfBirth": "1993",
+      "female": "Female",
+      "male": "Male",
+      "custom": "Custom",
+      "pronoun": "She: \"Wish her a happy birthday!\"",
+      "genderInput": "Femaaale"
+
+    },
+    "registrationValidation": {
+      "firstName": "What's your name?",
+      "lastName": "Ahmed",
+      "email": "You'll use this when you log in and if you ever need to reset your password.",
+      "password": "Enter a combination of at least six numbers, letters and punctuation marks (such as ! and &)."
+    },
+    "emailConfirmation": {
+      "title": "Enter the code from your email"
+    }
+
+  }
+]
