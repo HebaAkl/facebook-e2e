@@ -17,7 +17,7 @@ cd facebook-e2e
 ## run the test
 -- Note for the first time, all the dependencies will be installed --
 
-mvn run
+mvn clean test
 
 ## about the framework
 - Selenium-Java framework 
